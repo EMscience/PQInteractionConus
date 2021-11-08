@@ -8,10 +8,8 @@ The CAMELS dataset can be obtained from: https://ral.ucar.edu/solutions/products
 	3. Code - contains the main script that computes the information flow metrics.
 
 The information flow metrics include:
-Transfer entropy, mutual information, entropy, conditional entropy and total mutual informaion.
 
-
-1. Entropies - $H(X)$ and $H(Y)$
+1. Entropies - $ H(X) $ and $ H(Y) $
 2. Mutual information - $I(Y_{t};X_{t-lag})$
 3. Transfer entropy - $I(Y_{t};X_{t-lag}|Y_{t-1})$
 4. Correlation coeficients - $\r (Y_{t},X_{t-lag})$
