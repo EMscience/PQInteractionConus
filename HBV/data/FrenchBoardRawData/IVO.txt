@@ -1,0 +1,9 @@
+WatershedArea 2458
+T_t 0
+NumberOfSimulation 1000
+SnowMeltThr 0
+SoilMoisture 100
+S_1 3
+S_r 10
+OptimizationCriteria 1
+Ensemble 1
