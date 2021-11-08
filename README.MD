@@ -10,6 +10,15 @@ The CAMELS dataset can be obtained from: https://ral.ucar.edu/solutions/products
 The information flow metrics include:
 Transfer entropy, mutual information, entropy, conditional entropy and total mutual informaion.
 
+
+1. Entropies - $H(X)$ and $H(Y)$
+2. Mutual information - $I(Y_{t};X_{t-lag})$
+3. Transfer entropy - $I(Y_{t};X_{t-lag}|Y_{t-1})$
+4. Correlation coeficients - $\r (Y_{t},X_{t-lag})$
+5. Total information based on X - $I(Y_{t}; X_{t},X_{t-1})$
+6. Total information based on Y - $I(Y_{t}; X_{t},Y_{t-1})$
+
+
 \
 *Edom Moges* \
 *edom.moges@berkeley.edu* \

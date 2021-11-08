@@ -16,7 +16,7 @@ In computing probabilities, it accounts for the effect of zeros which are common
 5. Total information based on X - $I(Y_{t}; X_{t},X_{t-1})$
 6. Total information based on Y - $I(Y_{t}; X_{t},Y_{t-1})$
 
-These metrics are not normalized. Normalization can be done in postprocessin.
+These metrics are not normalized. Normalization can be done in postprocessing.
 
 '''
 #get_ipython().run_line_magic('matplotlib', 'inline')
