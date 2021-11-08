@@ -1,5 +1,5 @@
 ## Data and script for:
-"Strength and memory of precipitation's control over streamflow across the conterminous United States".
+"Strength and memory of precipitation's control over streamflow across the conterminous United States"
 
 The CAMELS dataset can be obtained from: https://ral.ucar.edu/solutions/products/camels 
 ## Folders and descriptions:
