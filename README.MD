@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/425992470.svg)](https://zenodo.org/badge/latestdoi/425992470)
 ## Data and script for:
 "Strength and memory of precipitation's control over streamflow across the conterminous United States"
 
