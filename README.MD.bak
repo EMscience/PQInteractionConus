@@ -4,9 +4,8 @@
 This is a repository fot the WRR article titled [Strength and memory of precipitation's control over streamflow 
 across the conterminous United States](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021WR030186)
 
-## Dataset
 The CAMELS dataset can be obtained from: https://ral.ucar.edu/solutions/products/camels 
-### Folders and descriptions:
+## Folders and descriptions:
 	1. CAMELS - contains the information theoretic metrics based on the CAMELS dataset.
 	2. HBV - contains the dataset for the two watersheds (French Broad and Guadalupe).
 	3. Code - contains the main script that computes the information theoretic metrics.
